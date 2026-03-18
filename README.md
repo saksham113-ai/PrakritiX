@@ -1,3 +1,5 @@
+Deloyment Link - https://prakritix.netlify.app/
+
 # 🌿 PrakritiX: Smart Waste Management System
 
 **PrakritiX** is an intelligent, AI-powered ecosystem designed to revolutionize how urban waste is segregated, monitored, and processed. By leveraging Machine Learning and IoT, it bridges the gap between traditional waste collection and a sustainable, circular economy.
